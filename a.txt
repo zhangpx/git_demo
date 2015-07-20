@@ -2,3 +2,4 @@ first commit on master
 first commit on dev
 fitst commit on merge
 second commit on master
+third commit on master
